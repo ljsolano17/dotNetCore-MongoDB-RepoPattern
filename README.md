@@ -1,0 +1,2 @@
+# dotNetCore-MongoDB-RepoPattern
+ 
