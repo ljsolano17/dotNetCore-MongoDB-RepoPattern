@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.API.W", "Solution.API.W\Solution.API.W.csproj", "{593447F0-8C04-4738-95CD-AE1A30B9E4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.API", "Solution.API\Solution.API.csproj", "{F0B38933-36A6-4C03-BA35-4EF085EE93CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.BS", "Solution.BS\Solution.BS.csproj", "{DAE89505-75DE-4787-947B-4BF411366AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL", "Solution.DAL\Solution.DAL.csproj", "{6F908A73-F5D4-42EC-A2C7-EA0B36D854BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL.Mongo", "Solution.DAL.Mongo\Solution.DAL.Mongo.csproj", "{F5DCF546-36DF-4422-BB1B-0D03D3C1A8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL.Repository", "Solution.DAL.Repository\Solution.DAL.Repository.csproj", "{CFB0D92A-6820-4CD0-86FB-5BD161CDFDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DO", "Solution.DO\Solution.DO.csproj", "{2930B9BB-2D7A-43AA-B7B5-A7940632CB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593447F0-8C04-4738-95CD-AE1A30B9E4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593447F0-8C04-4738-95CD-AE1A30B9E4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593447F0-8C04-4738-95CD-AE1A30B9E4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593447F0-8C04-4738-95CD-AE1A30B9E4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B38933-36A6-4C03-BA35-4EF085EE93CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B38933-36A6-4C03-BA35-4EF085EE93CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B38933-36A6-4C03-BA35-4EF085EE93CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B38933-36A6-4C03-BA35-4EF085EE93CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE89505-75DE-4787-947B-4BF411366AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE89505-75DE-4787-947B-4BF411366AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE89505-75DE-4787-947B-4BF411366AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE89505-75DE-4787-947B-4BF411366AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F908A73-F5D4-42EC-A2C7-EA0B36D854BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F908A73-F5D4-42EC-A2C7-EA0B36D854BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F908A73-F5D4-42EC-A2C7-EA0B36D854BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F908A73-F5D4-42EC-A2C7-EA0B36D854BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DCF546-36DF-4422-BB1B-0D03D3C1A8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DCF546-36DF-4422-BB1B-0D03D3C1A8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DCF546-36DF-4422-BB1B-0D03D3C1A8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DCF546-36DF-4422-BB1B-0D03D3C1A8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB0D92A-6820-4CD0-86FB-5BD161CDFDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB0D92A-6820-4CD0-86FB-5BD161CDFDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB0D92A-6820-4CD0-86FB-5BD161CDFDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB0D92A-6820-4CD0-86FB-5BD161CDFDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2930B9BB-2D7A-43AA-B7B5-A7940632CB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2930B9BB-2D7A-43AA-B7B5-A7940632CB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2930B9BB-2D7A-43AA-B7B5-A7940632CB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2930B9BB-2D7A-43AA-B7B5-A7940632CB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F4E366-367D-44A0-814B-9978CF92E91B}
+	EndGlobalSection
+EndGlobal
