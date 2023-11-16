@@ -16,7 +16,7 @@ namespace Solution.DO.Interfaces
 
         IEnumerable<T> GetAll();
 
-        T GetOneById(int id);
+        T GetOneById(string id);
 
 
     }

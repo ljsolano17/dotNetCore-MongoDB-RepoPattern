@@ -3,47 +3,43 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using data = Solution.DO.Objects;
-using Solution.DAL.Repository;
 
-namespace Solution.DAL
+namespace Solution.BS
 {
     public class Person : ICRUD<data.Person>
     {
-        private IMongoRepository<data.Person> _repo;
-        
+        private readonly IMongoRepository<data.Person> _repo;
         public Person(IMongoRepository<data.Person> repo)
         {
             _repo = repo;
         }
+
         public void Delete(data.Person t)
         {
-            Expression<Func<data.Person, bool>> filterExpression = person => person.Id == t.Id;
-            _repo.DeleteOne(filterExpression);
+            new DAL.Person(_repo).Delete(t);
         }
 
         public IEnumerable<data.Person> GetAll()
         {
-            Expression<Func<data.Person, bool>> filterExpression = person => true;
-            return _repo.FilterBy(filterExpression);
+            return new DAL.Person(_repo).GetAll();
         }
 
         public data.Person GetOneById(string id)
         {
-            return _repo.FindById(id);
+            return new DAL.Person(_repo).GetOneById(id);
         }
 
         public void Insert(data.Person t)
         {
-            _repo.InsertOne(t);
+            new DAL.Person(_repo).Insert(t);
         }
 
         public void Update(data.Person t)
         {
-            _repo.ReplaceOne(t);
+            new DAL.Person(_repo).Update(t);
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.BS\\Solution.BS.csproj": {}
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.BS\\Solution.BS.csproj": {}
   },
   "projects": {
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.BS\\Solution.BS.csproj": {
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.BS\\Solution.BS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.BS\\Solution.BS.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.BS\\Solution.BS.csproj",
         "projectName": "Solution.BS",
-        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.BS\\Solution.BS.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.BS\\Solution.BS.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.BS\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.BS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
               },
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\Solution.DAL.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\Solution.DAL.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\Solution.DAL.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\Solution.DAL.csproj"
               },
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj",
         "projectName": "Solution.DAL.Mongo",
-        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj": {
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
         "projectName": "Solution.DAL.Repository",
-        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"
@@ -200,8 +200,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
               }
             }
           }
@@ -253,14 +253,14 @@
         }
       }
     },
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\Solution.DAL.csproj": {
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\Solution.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\Solution.DAL.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\Solution.DAL.csproj",
         "projectName": "Solution.DAL",
-        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\Solution.DAL.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\Solution.DAL.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"
@@ -281,14 +281,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Mongo\\Solution.DAL.Mongo.csproj"
               },
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj"
               },
-              "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj": {
-                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj"
+              "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj": {
+                "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj"
               }
             }
           }
@@ -340,14 +340,14 @@
         }
       }
     },
-    "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj": {
+    "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj",
         "projectName": "Solution.DO",
-        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\Solution.DO.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\Solution.DO.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DO\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"

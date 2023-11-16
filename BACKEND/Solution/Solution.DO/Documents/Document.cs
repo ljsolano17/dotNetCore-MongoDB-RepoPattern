@@ -9,7 +9,7 @@ namespace Solution.DO.Documents
 {
     public abstract class Document : IDocument
     {
-        public ObjectId Id { get; set; }
+        public ObjectId Id { get; set; } = ObjectId.Empty;
 
         public DateTime CreatedAt => Id.CreationTime;
     }

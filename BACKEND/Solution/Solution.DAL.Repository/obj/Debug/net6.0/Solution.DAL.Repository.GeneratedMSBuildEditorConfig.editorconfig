@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Solution.DAL.Repository
-build_property.ProjectDir = E:\REPOSITORIO-GIT\.NET Core\OtraForma\Solution\Solution.DAL.Repository\
+build_property.ProjectDir = E:\REPOSITORIO-GIT\.NET Core\dotNetCore-MongoDB-RepoPattern\BACKEND\Solution\Solution.DAL.Repository\

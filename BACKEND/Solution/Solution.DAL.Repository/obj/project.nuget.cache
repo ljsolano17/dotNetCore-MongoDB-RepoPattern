@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Du3WcdnDcR+hr7UhXos0NUr8Vt92fi3jenApYQ3ma+j3eDIg/fP+O5WIHigXd00NMuPb9uqr9W/75HSxaVslIA==",
+  "dgSpecHash": "/K17Cgnh0KRkg1ljmFjlsd9ewXFgwf8r6tcuA7XsyR/g4gKN/Ghfeucf+xAjCj1xglbCoGOtktWhPBnPYqKCZg==",
   "success": true,
-  "projectFilePath": "E:\\REPOSITORIO-GIT\\.NET Core\\OtraForma\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
+  "projectFilePath": "E:\\REPOSITORIO-GIT\\.NET Core\\dotNetCore-MongoDB-RepoPattern\\BACKEND\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

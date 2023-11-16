@@ -16,6 +16,10 @@ namespace Solution.DAL.Repository
     {
         private readonly IMongoCollection<T> _collection;
 
+        public MongoRepository()
+        {
+
+        }
         public MongoRepository(IMongoDbSettings settings)
         {
             var database = new MongoClient(settings.ConnectionString).GetDatabase(settings.DatabaseName);
@@ -35,8 +39,7 @@ namespace Solution.DAL.Repository
             return _collection.AsQueryable();
         }
 
-        public virtual IEnumerable<T> FilterBy(
-            Expression<Func<T, bool>> filterExpression)
+        public virtual IEnumerable<T> FilterBy(Expression<Func<T, bool>> filterExpression)
         {
             return _collection.Find(filterExpression).ToEnumerable();
         }
